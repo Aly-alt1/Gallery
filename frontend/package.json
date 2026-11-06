@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sweetalert2": "^11.26.25",
+    "vue-qrcode-reader": "^5.7.3"
+  }
+}
